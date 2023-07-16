@@ -36,7 +36,8 @@ header img{
 }
 
 header .navbar{
-    padding: 20px;
+    margin: 15px;
+
 }
 
 header .navbar a{
@@ -48,6 +49,7 @@ header .navbar a{
 }
 
 header .logo{
+    margin-left: 15px;
     font-size: 25px;
     font-weight: normal;
     /* color: rgb(9, 152, 152); */
